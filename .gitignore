@@ -20,3 +20,5 @@ include/
 .tags*
 include/mavlink/v1.0
 *.pyc
+dialects/*/standard.py
+dialects/*/standard.xml
